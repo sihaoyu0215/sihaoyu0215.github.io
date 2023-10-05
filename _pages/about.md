@@ -25,8 +25,7 @@ one of the 22 research fields.
 In addition to his academic pursuits, Dr. Wong is a member of the HKIE Geotechnical Division Committee, a Co-opted
 Council Member of the Institute of Materials, Minerals, and Mining (Hong Kong Branch), the Hong Kong Regional Group
 President for the International Association of Engineering Geology and Environment (IAEG) Council, a Technical Assessor
-for the Hong Kong Accreditation Service (HKAS), an External Member of the Assessment Committee for Logging Geologists (
-CEDD).
+for the Hong Kong Accreditation Service (HKAS), an External Member of the Assessment Committee for Logging Geologists (CEDD).
 
 Before joining HKU, Dr. Wong held the position of Assistant Professor and Assistant Chair (Academic) at the Nanyang
 Technological University (NTU) School of Civil and Environmental Engineering in Singapore. He also gained practical

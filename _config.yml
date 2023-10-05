@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Louis Wong"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Louis Ngai Yuen Wong"
 description              : &description "personal description"
 url                      : https://sihaoyu0215.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,12 +83,12 @@ author:
   name             : "Louis Ngai Yuen Wong"
   avatar           : "profile.png"
   bio              : "Associate Professor / Director, Master of Science in the field of Applied Geosciences"
-  location         : "Location"
+  location         : "Hong Kong SAR"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=j_BFCYsAAAAJ&hl=e"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Louis-Wong-9"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+#  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

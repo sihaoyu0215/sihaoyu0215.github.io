@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Louis Ngai Yuen Wong"
   avatar           : "profile.png"
-  bio              : "Associate Professor / Director, Master of Science in the field of Applied Geosciences"
+  bio              : "Professor / Director, Master of Science in the field of Applied Geosciences"
+  email            : "LNYWONG@hku.hk"
   location         : "Hong Kong SAR"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=j_BFCYsAAAAJ&hl=e"
-  email            :
   researchgate     : "https://www.researchgate.net/profile/Louis-Wong-9"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :

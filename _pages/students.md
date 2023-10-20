@@ -10,7 +10,7 @@ engineering geological development projects at the Department of Earth Sciences,
 students are expected to commence their studies in August/September 2024, while Postdoctoral fellows can join at any
 time.
 
-https://gradsch.hku.hk/prospective_students/programmes/doctor_of_philosophy
+[https://gradsch.hku.hk/prospective_students/programmes/doctor_of_philosophy](https://gradsch.hku.hk/prospective_students/programmes/doctor_of_philosophy)
 
 Ideal applicants should have a strong Master's degree (for PhD applicants) or PhD degree (for Post-doctoral fellows) in
 civil engineering, geotechnical engineering, or computer science. Candidates with a solid background in laboratory

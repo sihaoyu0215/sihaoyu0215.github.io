@@ -7,7 +7,7 @@ author_profile: true
 
 ## Postdoctoral Fellow
 
-<img src="/images/zhaokai.png" width="300">
+<img src="/images/zhaokai.JPG" width="300">
 
 **Dr. ZHAO Kai**<br/>
 Email: kzhao@hku.hk

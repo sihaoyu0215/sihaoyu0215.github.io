@@ -7,7 +7,7 @@ author_profile: true
 
 Dr. ZHAO Kai
 
-<img src="/images/ZHAOKAI.png" width="120">
+<img src="/images/zhaokai.png" width="120">
 
 Email: kzhao@hku.hk
 

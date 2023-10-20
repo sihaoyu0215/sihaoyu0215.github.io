@@ -74,7 +74,7 @@ HKUDES_Net”. Rock Mechanics and Rock Engineering, 55(11), 6521-6539
 Meng, F.^, **Wong, L.N.Y.*** and Guo, T. (2022) “Frictional behavior and micro-damage characteristics of rough granite
 fractures”, Tectonophysics, 842, 229589
 
-Wong, A.L., Chung, P.W.K., Chu, F.L.F., So, S.T.C. and **Wong L.N.Y.*** (2022) “Tensile properties of cement stabilised clay
+Wong, A.L., Chung, P.W.K., Chu, F.L.F., So, S.T.C. and **Wong, L.N.Y.*** (2022) “Tensile properties of cement stabilised clay
 and their contribution to seawall design”. Ground Improvement (Proceedings of the ICE), 1-39.
 
 **Wong, L.N.Y.**, Cui, X.#*, Zhang, Y.#, Wu, Z. and Guo, T.# (2022) “Experimental Investigation of Thermal Strengthening in

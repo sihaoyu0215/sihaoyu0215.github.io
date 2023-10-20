@@ -42,7 +42,7 @@ Abbreviations:
 Refer to [Google Scholar](https://scholar.google.com.hk/citations?user=j_BFCYsAAAAJ&hl=e) for complete list of
 publications since 2015.
 
-**<ins>2023</ins>**
+### **<ins>2023</ins>**
 
 **Wong, L.N.Y**. and Cui, X.#* (accepted) “Simulation of 3D fracture propagation under I-II-III mixed-mode loading”, Rock
 Mechanics Bulletin.
@@ -69,7 +69,7 @@ of Rock Mechanics and Geotechnical Engineering
 Zhou, Y.#, **Wong, L.N.Y.***, and Tse, K.K.C.# (2023) “Novel Rock Image Classification: The Proposal and Implementation of
 HKUDES_Net”. Rock Mechanics and Rock Engineering, 55(11), 6521-6539
 
-**<ins>2022</ins>**
+### **<ins>2022</ins>**
 
 Meng, F.^, **Wong, L.N.Y.*** and Guo, T. (2022) “Frictional behavior and micro-damage characteristics of rough granite
 fractures”, Tectonophysics, 842, 229589

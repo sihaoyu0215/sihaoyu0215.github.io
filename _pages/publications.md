@@ -36,7 +36,7 @@ author_profile: true
 [//]: # ({% endfor %})
 
 Abbreviations:  
-<bold>* = Corresponding author, # = PhD or MSc student advisee, % = UG student advisee, ^ = RA/Postdoc advisee
+\* = Corresponding author, # = PhD or MSc student advisee, % = UG student advisee, ^ = RA/Postdoc advisee
 
 Refer to [Google Scholar](https://scholar.google.com.hk/citations?user=j_BFCYsAAAAJ&hl=e) for complete list of
 publications since 2015.
